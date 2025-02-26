@@ -1,1 +1,1 @@
-Pythpn basics
+Python basics
